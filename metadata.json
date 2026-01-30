@@ -1,0 +1,7 @@
+{
+  "name": "SyncMeet - Professional Scheduler",
+  "description": "A sophisticated scheduling platform for professionals to manage their availability, share custom booking links, and organize meetings with friends and colleagues.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
